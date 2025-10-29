@@ -43,7 +43,7 @@ used in an aircraft or rapid transit system.
 
 ## 🗺️ The Roadmap
 
-![Embedded Systems Engineering Roadmap](./resources/Embedded-Engineering-Roadmap-negate.png)
+![Embedded Systems Engineering Roadmap](https://github.com/LTC-117/Embedded-Engineering-Roadmap/blob/master/resources/Embedded-Engineering-Roadmap-negate.png)
 
 The embedded systems engineering roadmap is structured into three fundamental areas: **SOFTWARE**, **HARDWARE**, and **SOFT SKILLS**.
 
